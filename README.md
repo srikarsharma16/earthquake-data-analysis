@@ -1,5 +1,5 @@
 # Project Overview  
-The **Earthquake Insights Dashboard** is a comprehensive data visualization and analysis tool designed to provide insights into earthquake activity worldwide. Using cleaned data and interactive visualizations, the project aims to help users understand seismic trends, analyze regions prone to earthquakes, and observe activity patterns based on time, magnitude, and location.
+The **Earthquake Insights Analysis** is a comprehensive data visualization and analysis tool designed to provide insights into earthquake activity worldwide. Using cleaned data and interactive visualizations, the project aims to help users understand seismic trends, analyze regions prone to earthquakes, and observe activity patterns based on time, magnitude, and location.
 
 ## Table of Contents  
 - [Project Overview](#project-overview)  
