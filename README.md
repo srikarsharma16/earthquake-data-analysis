@@ -59,7 +59,8 @@ The **Earthquake Insights Analysis** is a comprehensive data visualization and a
 ## File Structure  
 
 ```
-earthquake-insights/  
+earthquake-data-analysis/
+├── plots/                     # Saved plots directory  
 ├── app.py                     # Shiny app for interactive dashboard  
 ├── requirements.txt           # Python dependencies  
 ├── quakes-clean.ipynb         # Data cleaning notebook  
