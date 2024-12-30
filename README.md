@@ -27,8 +27,8 @@ The **Earthquake Insights Dashboard** is a comprehensive data visualization and 
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-username>/earthquake-insights.git  
-   cd earthquake-insights  
+   git clone https://github.com/<your-username>/earthquake-data-analysis.git  
+   cd earthquake-data-analysis  
    ```  
 
 2. Install required Python packages:  
