@@ -15,6 +15,7 @@ The **Earthquake Insights Dashboard** is a comprehensive data visualization and 
 - **Data Cleaning**: Includes a Jupyter notebook (`quakes-clean.ipynb`) for preprocessing raw earthquake data.  
 - **Insights Generation**: Leverages the `quakes-insights.ipynb` notebook to generate insights from the cleaned dataset.  
 - **Advanced Visualizations**: Created in `quakes-plots.ipynb`, including bar charts, scatter plots, and heatmaps.
+- **Exploratory Analysis and Testing**: The `quakes-workings.ipynb` notebook serves as a workspace for testing ideas, performing exploratory data analysis (EDA), and prototyping new features or visualizations.
 
 ## Installation  
 
@@ -61,12 +62,11 @@ The **Earthquake Insights Dashboard** is a comprehensive data visualization and 
 earthquake-insights/  
 ├── app.py                     # Shiny app for interactive dashboard  
 ├── requirements.txt           # Python dependencies  
-├── plots/                     # Saved plots directory  
 ├── quakes-clean.ipynb         # Data cleaning notebook  
 ├── quakes-insights.ipynb      # Insights generation notebook  
 ├── quakes-plots.ipynb         # Visualization notebook  
 ├── quakes-cleaned.csv         # Cleaned earthquake dataset  
-├── LICENSE                    # License file  
+├── quakes-workings.ipynb      # Intermediate notebook for testing and EDA        
 └── README.md                  # This file  
 ```  
 
