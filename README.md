@@ -79,5 +79,4 @@ earthquake-insights/
 ## Author  
 **Srikar Kalle**  
 - GitHub: [Srikar Kalle](https://github.com/srikarsharma16)  
-- LinkedIn: [Srikar Kalle](https://www.linkedin.com/in/srikar-kalle-263a10191/)  
-```
+- LinkedIn: [Srikar Kalle](https://www.linkedin.com/in/srikar-kalle-263a10191/)
