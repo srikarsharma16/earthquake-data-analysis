@@ -8,8 +8,6 @@ The **Earthquake Insights Dashboard** is a comprehensive data visualization and 
 - [Usage](#usage)  
 - [File Structure](#file-structure)  
 - [Technologies Used](#technologies-used)  
-- [Contributing](#contributing)  
-- [License](#license)  
 - [Author](#author)  
 
 ## Features  
