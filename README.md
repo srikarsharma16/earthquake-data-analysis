@@ -14,8 +14,7 @@ The **Earthquake Insights Dashboard** is a comprehensive data visualization and 
 - **Interactive Dashboard**: Built using Python's Shiny framework and Plotly for dynamic, user-friendly data visualizations.  
 - **Data Cleaning**: Includes a Jupyter notebook (`quakes-clean.ipynb`) for preprocessing raw earthquake data.  
 - **Insights Generation**: Leverages the `quakes-insights.ipynb` notebook to generate insights from the cleaned dataset.  
-- **Advanced Visualizations**: Created in `quakes-plots.ipynb`, including bar charts, scatter plots, and heatmaps.  
-- **Saved Plots**: Automatically saves plots to the `plots/` directory for easy sharing.  
+- **Advanced Visualizations**: Created in `quakes-plots.ipynb`, including bar charts, scatter plots, and heatmaps.
 
 ## Installation  
 
